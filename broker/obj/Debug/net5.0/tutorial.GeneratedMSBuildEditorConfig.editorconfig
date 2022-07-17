@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tutorial
-build_property.ProjectDir = c:\Users\Yago_\Documents\tutorial\
+build_property.ProjectDir = c:\www\Curso_Ferias_MQTT_DOTNET\broker\
